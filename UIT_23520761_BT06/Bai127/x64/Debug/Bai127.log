@@ -1,0 +1,7 @@
+﻿  Bai127.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT06\Bai127\Bai127.cpp(50,9): error C2660: 'KtHoanThien': function does not take 2 arguments
+  D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT06\Bai127\Bai127.cpp(28,6):
+  see declaration of 'KtHoanThien'
+  D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT06\Bai127\Bai127.cpp(50,9):
+  while trying to match the argument list '(int [], int)'
+  
