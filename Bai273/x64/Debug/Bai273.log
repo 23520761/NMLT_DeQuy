@@ -1,0 +1,3 @@
+﻿  Bai273.cpp
+Bai273.obj : error LNK2019: unresolved external symbol "void __cdecl Xuat(float (* const)[500],int,int)" (?Xuat@@YAXQEAY0BPE@MHH@Z) referenced in function main
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\x64\Debug\Bai273.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,5 @@
+﻿  Bai233.cpp
+Bai233.obj : error LNK2019: unresolved external symbol "void __cdecl Nhap(int (* const)[500],int,int)" (?Nhap@@YAXQEAY0BPE@HHH@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl Nhap(float (* const)[500],int,int)" (?Nhap@@YAXQEAY0BPE@MHH@Z)
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\x64\Debug\Bai233.exe : fatal error LNK1120: 1 unresolved externals

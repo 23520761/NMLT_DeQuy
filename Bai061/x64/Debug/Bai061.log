@@ -1,0 +1,8 @@
+﻿  Bai061.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(20,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(20,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(32,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(16): error C4700: uninitialized local variable 'n' used
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(20): error C4700: uninitialized local variable 'high' used
+C:\Users\Admin\Desktop\làm bài lập trình\DeQui\Bai061\Bai061.cpp(20): error C4700: uninitialized local variable 'low' used
